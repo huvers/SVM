@@ -1,3 +1,4 @@
 SVM
 ===
-Mathematica SVM code with multiple kernal types.
+
+Mathematica SVM code with multiple kernal types. 
