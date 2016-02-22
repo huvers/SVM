@@ -1,3 +1,1 @@
-SVM
-
-Mathematica SVM code with multiple kernal types. 
+Mathematica Support Vector Machine library with multiple kernal types. 
